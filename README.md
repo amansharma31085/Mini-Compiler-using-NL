@@ -1,4 +1,4 @@
-# 🚀 Mini-Compiler-using-NL: Bridging Natural Language and SQL
+# 🚀 Mini-Compiler-using-NL: Natural Language and SQL
 
 A powerful and intuitive Mini-Compiler that translates natural language queries into executable SQL, and also supports direct SQL execution. This project leverages a pre-trained `bart-large-nl2sql` model for robust NL-to-SQL translation and provides a user-friendly Graphical User Interface (GUI) for seamless interaction with your data.
 
